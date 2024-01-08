@@ -1,5 +1,10 @@
 # Repositório de Projetos de Realidade Aumentada.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ZeroGalack/Augmented-reality/blob/main/images/img2.png" alt="Imagem 1" width="45%">
+  <img src="https://github.com/ZeroGalack/Augmented-reality/blob/main/images/img1.png" alt="Imagem 2" width="45%">
+</div>
+
 ---
 
 ## Descrição:
@@ -21,8 +26,5 @@ Bem-vindo ao meu repositório dedicado a projetos de Realidade Aumentada, onde e
 
 A homografia é uma técnica fundamental neste projeto, permitindo o mapeamento preciso de pontos correspondentes entre duas imagens. Isso é crucial para garantir que os elementos inseridos, como imagens e vídeos, mantenham uma perspectiva correta quando sobrepostos nos marcadores ArUco detectados.
 
----
-
-## Demostração:
 
 
